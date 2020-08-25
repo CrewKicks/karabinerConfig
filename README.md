@@ -1,4 +1,3 @@
-# karabinerConfig
+# karabinerConfig for my hhkb
 
 
-日文JLS键盘配置 自用
